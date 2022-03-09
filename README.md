@@ -3,4 +3,4 @@
 
 Fungsinya? untuk menghijaukan kontribusi anda
 ---
-Thanks to Mazipan for source code https://github.com/mazipan/auto-commit
+Thanks to Irfan Maulana for source code https://github.com/mazipan/auto-commit
